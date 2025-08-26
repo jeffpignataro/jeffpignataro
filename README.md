@@ -1,23 +1,25 @@
-# 🚀 Jeff Pignataro - Building the Future, One System at a Time!
+# 🚀 Jeff Pignataro - Architecting Reliable Systems
 
-👋 Hey there! I'm **Jeff Pignataro**, a tech trailblazer, crafting **reliable, secure, and scalable platforms** that power enterprise and federal missions. With 15+ years of experience, I’m all about turning chaos into order, mentoring rockstar engineers, and building systems that just *work*—no matter the scale.  
+👋 Hi, I'm **Jeff Pignataro**, a tech leader with 15+ years of experience building **secure, scalable platforms** for enterprise and federal organizations. I specialize in transforming complex infrastructure challenges into reliable, high-performing systems while mentoring talented engineering teams. Think of me as the guy who keeps the cloud humming and the uptime soaring!
 
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/jeffpignataro) | 📧 [Drop me an email](mailto:jeffp2662@gmail.com)
+![Doge Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
----
-
-## 🛠️ What I Do
-
-I’m a **Director of Reliability & Infrastructure** who thrives on solving tough problems. Think of me as the guy who builds the digital highways that keep businesses and government agencies zooming along. From multi-cloud platforms to air-gapped CI/CD pipelines, I create systems that are **secure**, **resilient**, and **future-proof**.  
-
-- 🌩️ **Master of Clouds**: AWS, Azure, GCP—I’ve tamed them all.  
-- 🛡️ **Security & Compliance Guru**: IL4, CUI, ITAR? I’ve got you covered.  
-- 🚀 **Team Builder**: Leading teams of up to 22 engineers to deliver excellence.  
-- 📊 **Reliability Champion**: SLOs, SLIs, and observability are my playground.  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/jeffpignataro) | 📧 [Email me](mailto:jeffp2662@gmail.com)
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠️ What I Bring to the Table
+
+As a **Director of Reliability & Infrastructure**, I design robust systems that power critical missions. From multi-cloud architectures to secure CI/CD pipelines, I focus on **reliability**, **security**, and **scalability** while fostering collaboration and innovation within teams.
+
+- ☁️ **Cloud Expertise**: Mastering AWS, Azure, and GCP for seamless operations.  
+- 🔒 **Security & Compliance**: Ensuring IL4, CUI, and ITAR standards are met with precision.  
+- 🤝 **Team Leadership**: Guiding teams of up to 22 engineers to deliver top-tier results.  
+- 📈 **Reliability Pro**: Crafting SLOs and observability frameworks for flawless performance.  
+
+---
+
+## 🧰 My Tech Toolkit
 
 | **Category**             | **Tools & Tech**                              |
 |--------------------------|-----------------------------------------------|
@@ -30,20 +32,20 @@ I’m a **Director of Reliability & Infrastructure** who thrives on solving toug
 
 ---
 
-## 🌟 Fun Projects
+## 🌟 Key Projects
 
-- **🔒 Secure Multi-Cloud Platform**: Built a bulletproof platform for federal workloads using Azure, GCP, and Kubernetes.  
-- **📈 SLO Monitoring System**: Crafted an observability framework that kept payment systems in check.  
-- **🌾 USDA API Powerhouse**: Led APIs that powered critical USDA platforms, earning a “Rock Star” nod.  
+- **🔒 Secure Multi-Cloud Platform**: Designed a robust platform for federal workloads using Azure, GCP, and Kubernetes.  
+- **📈 SLO Monitoring Framework**: Built an observability system to ensure uptime for critical payment platforms.  
+- **🌐 USDA API Platform**: Led development of APIs powering USDA’s public-facing services, earning a “Rock Star” award.  
 
 ---
 
 ## 🤝 Let’s Connect!
 
-Got a wild idea for a reliable, scalable system? Want to geek out over Kubernetes or compliance frameworks? I’m all ears (or rather, all code). Reach out and let’s build something awesome together!  
+Have an idea for a scalable, reliable system? Want to chat about cloud architecture or team-building strategies? I’m always up for a conversation. Reach out, and let’s create something impactful!  
 
 📧 [Email me](mailto:jeffp2662@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/jeffpignataro)
 
 ---
 
-*“The best systems don’t just run—they *thrive* under pressure.”*  
+*“Great systems don’t just work—they empower progress with reliability and precision.”*
