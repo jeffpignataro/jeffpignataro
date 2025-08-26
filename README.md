@@ -1,4 +1,4 @@
-# 🚀 Jeff Pignataro - Building the Future, One System at a Time! 🌌
+# 🚀 Jeff Pignataro - Building the Future, One System at a Time!
 
 👋 Hey there! I'm **Jeff Pignataro**, a tech trailblazer from **Loveland, CO**, crafting **reliable, secure, and scalable platforms** that power enterprise and federal missions. With 15+ years of experience, I’m all about turning chaos into order, mentoring rockstar engineers, and building systems that just *work*—no matter the scale.  
 
