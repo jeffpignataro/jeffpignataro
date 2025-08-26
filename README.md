@@ -17,30 +17,6 @@ I’m a **Director of Reliability & Infrastructure** who thrives on solving toug
 
 ---
 
-## 🎯 Career Highlights
-
-### **Loft Orbital Federal** – *Reliability & Infrastructure Lead*  
-*Golden, CO | Nov 2023 – Present*  
-- Built **SRE and IT teams** from scratch for a federal contractor handling top-secret IL4 CUI/ITAR workloads.  
-- Launched a **multi-cloud platform** (Azure + GCP) with Kubernetes, Terraform, and GitLab CI/CD.  
-- Engineered **secure CI/CD pipelines** for air-gapped environments—because even spies need reliable code.  
-
-### **BillGO Inc.** – *Site Reliability Engineering Manager*  
-*Fort Collins, CO | Jan 2022 – Oct 2023*  
-- Led a 7-person team to keep payment systems humming with **SLO/SLA frameworks** (Datadog, OpsGenie).  
-- Modernized infrastructure with a **Kubernetes platform-as-a-service**, slashing costs and boosting agility.  
-
-### **ASRC Federal – USDA** – *API Platform Lead*  
-*Fort Collins, CO | Oct 2019 – Dec 2021*  
-- Directed a 22-person team building APIs for USDA’s Conservation Desktop and Farmers.gov.  
-- Snagged the **2020 “Rock Star of the Year” award** for leadership that made waves.  
-
-### **UC Santa Barbara** – *Software Development Team Manager*  
-*Santa Barbara, CA | May 2012 – Oct 2019*  
-- Delivered 30+ enterprise apps for student services, including a slick SharePoint migration.  
-
----
-
 ## 🧰 Tech Toolbox
 
 | **Category**             | **Tools & Tech**                              |
